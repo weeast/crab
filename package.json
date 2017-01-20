@@ -1,0 +1,27 @@
+{
+  "name": "crab",
+  "version": "1.0.0",
+  "description": "a crab game based on Three.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "open": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeast/crab.git"
+  },
+  "keywords": [
+    "three.js"
+  ],
+  "author": "weeast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeast/crab/issues"
+  },
+  "homepage": "https://github.com/weeast/crab#readme"
+}
